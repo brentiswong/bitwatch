@@ -3,7 +3,7 @@ export const DEFAULT_INITIAL_ADDRESSES = 5;
 export const DEFAULT_SKIP_ADDRESSES = 0;
 
 export const DEFAULT_CONFIG = {
-  api: "https://mempool.space",
+  api: "http://192.168.68.155",
   apiParallelLimit: 1,
   apiDelay: 2000,
   debugLogging: false,
